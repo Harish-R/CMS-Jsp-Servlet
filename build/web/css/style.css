@@ -1,0 +1,33 @@
+@import url(http://fonts.googleapis.com/css?family=Play:700);
+body {	padding-top: 0px;	margin: 0px; }
+#wrapper {	padding-left: 0px;	padding-right: 0px;}
+#header {	background-color: lavender;	font-family: 'Play', sans-serif;}
+#main-nav {	border-radius: 0px;	border: 0px;	border-bottom: 2px solid red;	margin-bottom: 0px;}
+ul.navbar-nav li:hover {	transition:0.75s;	background-color:red;	color: white;}
+#content {	background-color: #35B6FF; padding: }
+#content #nopost { font-family: 'impact'; font-wieght:normal; }
+#content .container {	padding-top:25px; }
+#main-content {  }
+.post { color:; font-family:; }
+.post-head { color:; font-size:; }
+div.post-head h3 { margin-bottom: 2px; }
+.post-description { color:; }
+.post-img { height:175px; width:175px; position:relative;float:left; }
+.post-mini-text { font-family:; position:relative; float:left; }
+#side-bar { padding: 25px 10px 0px 10px;}
+.footer {	border-top: 2px solid orange; background-color:black; height: 250px;}
+.footer .container { padding-top: 15px;}
+.footer .container .row { color:darkgray; }
+.footer .row ul li:hover { 	color: white; }
+.footer-nav li { text-decoration: none; }
+
+.post-header p { margin-top:2px; }
+.post-body img { }
+
+.form-control { border-radius:0px;}
+
+.category div div a { text-decoration:none;}
+
+
+// Social
+.social .media { margin-top: 5px; }
